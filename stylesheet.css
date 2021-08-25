@@ -46,7 +46,7 @@
   
   /* banner */
   .banner {
-    background-image: url('images/ngepet.jpg');
+    background-image: url('ngepet.jpg');
     background-size: cover;
     background-position: center center;
     color: white;
