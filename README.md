@@ -1,6 +1,6 @@
 # Clone-Notflix
 Proyek Tim KMTETI FT UGM X Progate Agustus 2021
-HTML & CSS Kelompok A1
+HTML & CSS Kelompok A01
 
 Nama Anggota: 
 1. Nifwan Arbi Nugroho
